@@ -4,7 +4,7 @@
 - **EcoSphereX** is an IoT-based platform designed for real-time environmental health monitoring.
 - Monitors key environmental parameters: **air quality**, **noise pollution**, and **soil acidity**.
 - Integrates **advanced sensors** with real-time data analytics.
-- **Sanctioned ₹18,000** by **Shiv Nadar University Chennai** to support the development.
+- **Recognised** for excellence and received a grant of **Rs.10,000** in support of the project under the STIRS (Stimuli for Technological Innovation and Research by Students) Scheme from **Shiv Nadar University Chennai.**
   
 ## **Motivation**
 - Rapid urbanization has led to increased pollution and environmental degradation.
