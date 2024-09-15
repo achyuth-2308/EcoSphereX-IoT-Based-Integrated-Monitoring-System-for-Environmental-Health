@@ -1,7 +1,5 @@
 ### **EcoSphereX: IoT-Based Integrated Monitoring System for Environmental Health**
 
----
-
 ## **Overview**
 - **EcoSphereX** is an IoT-based platform designed for real-time environmental health monitoring.
 - Monitors key environmental parameters: **air quality**, **noise pollution**, and **soil acidity**.
